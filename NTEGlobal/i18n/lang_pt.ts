@@ -1,12 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
+<?xml version='1.0' encoding='utf-8'?>
 <TS version="2.1" language="pt_BR">
 <context>
     <name>AccountManagementPage</name>
-    <message>
-        <source></source>
-        <translation></translation>
-    </message>
     <message>
         <source>Email</source>
         <translation>E-mail</translation>
@@ -55,10 +50,6 @@
 <context>
     <name>UserAgeAgreements</name>
     <message>
-        <source></source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Country/Region</source>
         <translation>País/Região</translation>
     </message>
@@ -85,10 +76,6 @@
 </context>
 <context>
     <name>globalUserCenter</name>
-    <message>
-        <source></source>
-        <translation></translation>
-    </message>
     <message>
         <source>A PLUS Account Settings</source>
         <translation>Configurações de conta A PLUS</translation>
@@ -145,10 +132,6 @@
 <context>
     <name>globaluseridloginframe</name>
     <message>
-        <source></source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Login</source>
         <translation>Entrar</translation>
     </message>
@@ -193,7 +176,7 @@
     </message>
     <message>
         <source>This will not be shown publicly.</source>
-        <translation>Isso não será exibido publicamente.</translation>
+        <translation>Isto não será exibido publicamente.</translation>
     </message>
     <message>
         <source>Please register your age accurately. When a minor makes a payment, please ensure that the purchase is made with the permission of their guardian.</source>
@@ -244,7 +227,7 @@
     </message>
     <message>
         <source>ID number:</source>
-        <translation>Número do documento:</translation>
+        <translation>Número de identificação:</translation>
     </message>
     <message>
         <source>Invalid ID number or format error</source>
@@ -269,7 +252,7 @@
         <translation>Confirmar</translation>
     </message>
     <message>
-        <source>Here are the devices you&apos;ve recently logged in to.</source>
+        <source>Here are the devices you've recently logged in to.</source>
         <translation>Aqui estão os dispositivos em que você fez login recentemente.</translation>
     </message>
     <message>
@@ -518,7 +501,7 @@
     </message>
     <message>
         <source>real name certification</source>
-        <translation>ID Verification</translation>
+        <translation>Verificação de ID</translation>
     </message>
     <message>
         <source>Please input the real and valid ID number</source>
@@ -526,39 +509,39 @@
     </message>
     <message>
         <source>Audit failure</source>
-        <translation>Verification failed</translation>
+        <translation>Verificação falhou</translation>
     </message>
     <message>
         <source>Please input name</source>
-        <translation>Enter name</translation>
+        <translation>Digite o nome</translation>
     </message>
     <message>
         <source>ID number:</source>
-        <translation>ID number: </translation>
+        <translation>Número de identificação: </translation>
     </message>
     <message>
         <source>Sorry, the real name information was not passed, the account is currently in a protected state.</source>
-        <translation>Verification failed. Account is currently restricted.</translation>
+        <translation>Verificação falhou. A conta está atualmente restrita.</translation>
     </message>
     <message>
         <source>Please contact perfect customer service if any questions.</source>
-        <translation>For questions, please contact support.</translation>
+        <translation>Para dúvidas, contate o suporte.</translation>
     </message>
     <message>
         <source>Invalid ID number or format error</source>
-        <translation>Invalid ID format</translation>
+        <translation>Formato de ID inválido</translation>
     </message>
     <message>
         <source>Real name certification information</source>
-        <translation>ID verification</translation>
+        <translation>Verificação de ID</translation>
     </message>
     <message>
         <source>Submitting user information ...</source>
-        <translation>Submitting user information...</translation>
+        <translation>Enviando informações do usuário...</translation>
     </message>
     <message>
         <source>click to modify</source>
-        <translation>Change</translation>
+        <translation>Alterar</translation>
     </message>
     <message>
         <source>Auditing</source>
@@ -840,7 +823,7 @@
     </message>
     <message>
         <source>Do you want to interrupt the update? Interrupting the update will exit the launcher.</source>
-        <translation>Do you want to cancel the update? This will close the launcher.</translation>
+        <translation>Deseja cancelar a atualização? Isso fechará o launcher.</translation>
     </message>
     <message>
         <source>The update has been completed, please restart the updater.</source>
@@ -878,11 +861,11 @@
     </message>
     <message>
         <source>Please enter the dynamic verification code</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>The current account has been bound to an email address. You can use this email address as your login account:</source>
-        <translation>This account is already linked to an email. You can use it to log in: </translation>
+        <translation>Esta conta já está vinculada a um e-mail. Você pode usá-lo para fazer login: </translation>
     </message>
     <message>
         <source>Please enter the correct email address</source>
@@ -894,15 +877,15 @@
     </message>
     <message>
         <source>Resend</source>
-        <translation>Resend</translation>
+        <translation>Reenviar</translation>
     </message>
     <message>
         <source>The verification code has been sent to: %1</source>
-        <translation>Verification code sent to: %1</translation>
+        <translation>Código de verificação enviado para: %1</translation>
     </message>
     <message>
         <source>Please enter the email address</source>
-        <translation>Enter email address</translation>
+        <translation>Digite o endereço de e-mail</translation>
     </message>
     <message>
         <source>Successfully bound mailbox</source>
@@ -910,11 +893,11 @@
     </message>
     <message>
         <source>Next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
     <message>
         <source>The mailbox is bound successfully. You can use this mailbox as the login account:</source>
-        <translation>Email linked. You can now use it to log in: </translation>
+        <translation>E-mail vinculado. Agora você pode usá-lo para fazer login: </translation>
     </message>
 </context>
 <context>
@@ -1055,7 +1038,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Latest version:</source>
-        <translation>Versão mais recente:</translation>
+        <translation>Última versão:</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -1363,7 +1346,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
         <translation>Faça login primeiro e então abra o Centro do Usuário</translation>
     </message>
     <message>
-        <source>After allowing, your Discord profile may display your current character name, level, server, and playtime. You can disable this at any time in the Launcher&apos;s &quot;Settings&quot;</source>
+        <source>After allowing, your Discord profile may display your current character name, level, server, and playtime. You can disable this at any time in the Launcher's "Settings"</source>
         <translation>Após permitir, seu perfil do Discord pode exibir seu nome de personagem atual, nível, servidor e tempo de jogo. Você pode desativar isso a qualquer momento nas Configurações do Launcher.</translation>
     </message>
     <message>
@@ -1465,7 +1448,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
         <translation>Aviso</translation>
     </message>
     <message>
-        <source>Don&apos;t remind again</source>
+        <source>Don't remind again</source>
         <translation>Não lembrar novamente</translation>
     </message>
     <message>
@@ -1498,7 +1481,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>This application was not launched through the Google Play Store.Please launch this application from the Google Play Store to ensure proper functionality.</source>
-        <translation>Este aplicativo não foi iniciado pela Google Play Store. Por favor, inicie-o pela Google Play Store para garantir funcionamento adequado.</translation>
+        <translation>Este aplicativo não foi iniciado pela Google Play Store. Inicie-o pela Google Play Store para garantir o funcionamento adequado.</translation>
     </message>
     <message>
         <source>Please wait for the game installation to complete</source>
@@ -1546,7 +1529,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Clearing the game cache can solve some exceptions, but some resources need to be downloaded again.Do you want to continue?</source>
-        <translation>Clearing the game cache might fix some issues, but certain resources will have to be downloaded again. Proceed?</translation>
+        <translation>Limpar o cache do jogo pode corrigir alguns problemas, mas certos recursos terão que ser baixados novamente. Continuar?</translation>
     </message>
     <message>
         <source>The resource is being verified, quit now?</source>
@@ -1558,7 +1541,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Clearing the cache is used to try to solve the problem of update failure and abnormal operation, but the resource data needs to be downloaded again</source>
-        <translation>Clearing the cache may solve update failure issues and errors. However, the resource data will need to be downloaded again.</translation>
+        <translation>A limpeza do cache pode resolver problemas de falha de atualização e erros. No entanto, os dados de recursos precisarão ser baixados novamente.</translation>
     </message>
     <message>
         <source>The third-party component is installed to solve the problem of lack of third-party library when the game is running</source>
@@ -1603,7 +1586,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
         <translation>Aviso</translation>
     </message>
     <message>
-        <source>Don&apos;t show to me next time</source>
+        <source>Don't show to me next time</source>
         <translation>Não mostrar novamente</translation>
     </message>
 </context>
@@ -1886,7 +1869,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>The configuration information has been modified. Do you want to save it?</source>
-        <translation>Settings have been modified. Save changes?</translation>
+        <translation>As configurações foram modificadas. Deseja salvar as alterações?</translation>
     </message>
 </context>
 <context>
@@ -1901,11 +1884,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>error</source>
-        <translation>Error</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Invalid shortcuts</source>
-        <translation>Invalid shortcuts</translation>
+        <translation>Atalhos inválidos</translation>
     </message>
     <message>
         <source>Notice</source>
@@ -1913,53 +1896,53 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Do you want to reset to default setting?</source>
-        <translation>Do you want to reset to default settings?</translation>
+        <translation>Deseja redefinir para as configurações padrão?</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation>Open directory</translation>
+        <translation>Abrir diretório</translation>
     </message>
 </context>
 <context>
     <name>CPUWarningWindow</name>
     <message>
         <source>or</source>
-        <translation>or</translation>
+        <translation>ou</translation>
     </message>
     <message>
         <source>Processor model</source>
-        <translation>CPU Model: </translation>
+        <translation>Modelo do processador</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Ignore</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Current version</source>
-        <translation>Current version</translation>
+        <translation>Versão atual</translation>
     </message>
     <message>
         <source>higher</source>
-        <translation>higher</translation>
+        <translation>mais alto</translation>
     </message>
     <message>
         <source>Recommended version</source>
-        <translation>Recommended version</translation>
+        <translation>Versão recomendada</translation>
     </message>
     <message>
         <source>View guide</source>
-        <translation>View Guide</translation>
+        <translation>Ver guia</translation>
     </message>
     <message>
         <source>Current Speed</source>
-        <translation>Current Frequency: </translation>
+        <translation>Velocidade atual</translation>
     </message>
 </context>
 <context>
     <name>VideoCardDriverUpdateWindow</name>
     <message>
         <source>or</source>
-        <translation>or</translation>
+        <translation>ou</translation>
     </message>
     <message>
         <source>Download Now</source>
@@ -1967,54 +1950,54 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Older drivers may cause game issues (such as crashes or stuttering).</source>
-        <translation>Outdated drivers may cause stability issues (e.g., crashes or stuttering).</translation>
+        <translation>Drivers mais antigos podem causar problemas no jogo (como travamentos ou engasgos).</translation>
     </message>
     <message>
         <source>Ignore</source>
-        <translation>Ignore</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>Current version</source>
-        <translation>Current version</translation>
+        <translation>Versão atual</translation>
     </message>
     <message>
         <source>higher</source>
-        <translation>higher</translation>
+        <translation>mais alto</translation>
     </message>
     <message>
         <source>Recommended version</source>
-        <translation>Recommended version</translation>
+        <translation>Versão recomendada</translation>
     </message>
     <message>
         <source>Graphics Driver Version Too Low</source>
-        <translation>Graphics driver version too low</translation>
+        <translation>Versão do driver gráfico muito baixa</translation>
     </message>
     <message>
         <source>For the best gaming experience, please update your graphics drivers.</source>
-        <translation>For the best gaming experience, please update your graphics drivers.</translation>
+        <translation>Para a melhor experiência de jogo, atualize seus drivers gráficos.</translation>
     </message>
     <message>
         <source>Your %1 graphics driver is below the recommended version</source>
-        <translation>Your %1 graphics driver is below the recommended version</translation>
+        <translation>Seu driver gráfico %1 está abaixo da versão recomendada</translation>
     </message>
 </context>
 <context>
     <name>UserAgeAgreementOption_AgeRange</name>
     <message>
         <source>Age</source>
-        <translation>Age</translation>
+        <translation>Idade</translation>
     </message>
     <message>
         <source>Select your age range</source>
-        <translation>Select your age range</translation>
+        <translation>Selecione sua faixa etária</translation>
     </message>
     <message>
         <source>Select your age</source>
-        <translation>Select your age</translation>
+        <translation>Selecione sua idade</translation>
     </message>
     <message>
         <source>This will not be shown publicly.</source>
-        <translation>This will not be shown publicly.</translation>
+        <translation>Isto não será exibido publicamente.</translation>
     </message>
     <message>
         <source>Age range</source>
@@ -2029,7 +2012,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>This will not be shown publicly.</source>
-        <translation>Isso não será exibido publicamente.</translation>
+        <translation>Isto não será exibido publicamente.</translation>
     </message>
     <message>
         <source>Please enter your age</source>
@@ -2174,7 +2157,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation>Comentários</translation>
     </message>
 </context>
 <context>
@@ -2221,7 +2204,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation>Comentários</translation>
     </message>
 </context>
 <context>
@@ -2358,7 +2341,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     <name>outer_authentication</name>
     <message>
         <source>Copy</source>
-        <translation>Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2366,22 +2349,22 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Opening the browser...</source>
-        <translation>Opening browser...</translation>
+        <translation>Abrindo o navegador...</translation>
     </message>
     <message>
         <source>Please complete the authorization on the web page. If you cancel the authorization, the login will fail.</source>
-        <translation>Por favor, complete a autorização no seu navegador.</translation>
+        <translation>Por favor, complete a autorização na página da web. Se você cancelar a autorização, o login falhará.</translation>
     </message>
     <message>
         <source>if the web page cannot be opened, please copy and paste the link below into the web browser to open it.</source>
-        <translation>If the page does not open, please copy the link below and paste it into your browser: </translation>
+        <translation>Se a página não abrir, copie o link abaixo e cole-o no navegador.</translation>
     </message>
 </context>
 <context>
     <name>SettingItemGeneral</name>
     <message>
         <source>Deny</source>
-        <translation>Deny</translation>
+        <translation>Negar</translation>
     </message>
     <message>
         <source>quit</source>
@@ -2389,23 +2372,23 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Show launcher after game exit</source>
-        <translation>Show launcher when exiting game</translation>
+        <translation>Mostrar launcher ao sair do jogo</translation>
     </message>
     <message>
         <source>Allow</source>
-        <translation>Allow</translation>
+        <translation>Permitir</translation>
     </message>
     <message>
         <source>Ask Every Time</source>
-        <translation>Ask every time</translation>
+        <translation>Perguntar sempre</translation>
     </message>
     <message>
         <source>Speed limit effect applies to both game download and game pre-download</source>
-        <translation>Speed limit applies to downloads and pre-downloads.</translation>
+        <translation>O limitador de velocidade se aplica a downloads e pré-downloads.</translation>
     </message>
     <message>
         <source>launch settings</source>
-        <translation>Launch settings</translation>
+        <translation>Configurações de inicialização</translation>
     </message>
     <message>
         <source>Automatic update</source>
@@ -2413,11 +2396,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation>Unlimited</translation>
+        <translation>Ilimitado</translation>
     </message>
     <message>
         <source>game path</source>
-        <translation>Game directory</translation>
+        <translation>Diretório do jogo</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
@@ -2429,31 +2412,31 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>线路%1</source>
-        <translation>Server %1</translation>
+        <translation>Servidor %1</translation>
     </message>
     <message>
         <source>Save login information for next automatic login</source>
-        <translation>Remember me (Auto-login)</translation>
+        <translation>Salvar informações de login para o próximo login automático</translation>
     </message>
     <message>
         <source>Language settings</source>
-        <translation>Language</translation>
+        <translation>Configurações de idioma</translation>
     </message>
     <message>
         <source>Please pay attention to account security</source>
-        <translation>Don&apos;t save passwords on public or shared computers.</translation>
+        <translation>Não salve senhas em computadores públicos ou compartilhados.</translation>
     </message>
     <message>
         <source>Show Game Status in Discord</source>
-        <translation>Show game status on Discord</translation>
+        <translation>Mostrar status do jogo no Discord</translation>
     </message>
     <message>
         <source>Game Launch Settings</source>
-        <translation>Game startup settings</translation>
+        <translation>Configurações de inicialização do jogo</translation>
     </message>
     <message>
         <source>DX11 used in the game (recommended if the game starts abnormally)</source>
-        <translation>Use DirectX 11 (compatibility)</translation>
+        <translation>DX11 usado no jogo (recomendado se o jogo iniciar anormalmente)</translation>
     </message>
     <message>
         <source>下载线路选择</source>
@@ -2461,7 +2444,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Switching download lines might improve download speed</source>
-        <translation>Switching servers may improve speed if your current download is slow.</translation>
+        <translation>A troca de servidor pode melhorar a velocidade de download.</translation>
     </message>
     <message>
         <source>Account settings</source>
@@ -2469,14 +2452,14 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation>Minimize to tray</translation>
+        <translation>Minimizar para a bandeja</translation>
     </message>
     <message>
         <source>Automatic operation after startup</source>
-        <translation>Launch on startup</translation>
+        <translation>Inicializar ao iniciar</translation>
     </message>
     <message>
-        <source>After allowing, your Discord profile may display your current character name, level, server, and playtime. You can disable this at any time in the Launcher&apos;s &quot;Settings&quot;</source>
+        <source>After allowing, your Discord profile may display your current character name, level, server, and playtime. You can disable this at any time in the Launcher's "Settings"</source>
         <translation>Após permitir, seu perfil do Discord pode exibir seu nome de personagem atual, nível, servidor e tempo de jogo. Você pode desativar isso a qualquer momento nas Configurações do launcher.</translation>
     </message>
     <message>
@@ -2595,7 +2578,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Configurações de download</translation>
+        <translation>Baixar</translation>
     </message>
     <message>
         <source>Legal Information</source>
@@ -2623,7 +2606,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Switching download lines might improve download speed</source>
-        <translation>Mudar de servidor pode melhorar a velocidade de download.</translation>
+        <translation>A troca de servidor pode melhorar a velocidade de download.</translation>
     </message>
     <message>
         <source>Produced</source>
@@ -2643,7 +2626,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation>Minimize to tray</translation>
+        <translation>Minimizar para a bandeja</translation>
     </message>
     <message>
         <source>quit when exiting the game</source>
@@ -2655,7 +2638,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation>Open directory</translation>
+        <translation>Abrir diretório</translation>
     </message>
     <message>
         <source>No automatic updates</source>
@@ -2730,11 +2713,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>switch user</source>
-        <translation>Switch account</translation>
+        <translation>Trocar conta</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Quit All</source>
@@ -2761,7 +2744,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Updating the launcher does not affect installed game packages. After installation, you will be able to continue playing the game.</source>
-        <translation>Updating the launcher does not affect installed game packages. After installation, you will be able to continue playing the game.</translation>
+        <translation>Atualizar o launcher não afeta os pacotes do jogo instalados. Após a instalação, você poderá continuar jogando.</translation>
     </message>
 </context>
 <context>
@@ -2788,11 +2771,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>ignore</source>
-        <translation>Ignore</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <source>If you already have the latest version of the game package locally, you can play it without downloading the game again after installing the launcher.</source>
-        <translation>If your device is already up-to-date with the latest game package files, simply install the launcher to play. You will not need to redownload the game.</translation>
+        <translation>Se o seu dispositivo já estiver atualizado com os arquivos de pacote mais recentes, simplesmente instale o launcher para jogar. Você não precisará baixar o jogo novamente.</translation>
     </message>
     <message>
         <source>Remaining time</source>
@@ -2800,7 +2783,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Launcher Update</source>
-        <translation>Launcher update</translation>
+        <translation>Atualização do launcher</translation>
     </message>
     <message>
         <source>Experience Now</source>
@@ -2823,45 +2806,45 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>copy UID</source>
-        <translation>Copy UID</translation>
+        <translation>Copiar UID</translation>
     </message>
     <message>
         <source>Switch Account</source>
-        <translation>Switch account</translation>
+        <translation>Trocar conta</translation>
     </message>
     <message>
         <source>Nickname:</source>
-        <translation>Nickname:</translation>
+        <translation>Apelido:</translation>
     </message>
     <message>
         <source>Getting...</source>
-        <translation>Loading...</translation>
+        <translation>Carregando...</translation>
     </message>
 </context>
 <context>
     <name>FileBrowser</name>
     <message>
         <source>Size</source>
-        <translation>Size</translation>
+        <translation>Tamanho</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>File name</source>
-        <translation>File name</translation>
+        <translation>Nome do arquivo</translation>
     </message>
     <message>
         <source>Last modified date</source>
-        <translation>Last modified</translation>
+        <translation>Data da última modificação</translation>
     </message>
 </context>
 <context>
     <name>AbstractTitleBar</name>
     <message>
         <source>back</source>
-        <translation>Back</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>close</source>
@@ -2872,7 +2855,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     <name>UserCenterTitleBar</name>
     <message>
         <source>back</source>
-        <translation>Back</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>close</source>
@@ -2907,11 +2890,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification Code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Register</translation>
+        <translation>Registrar</translation>
     </message>
     <message>
         <source>Please enter the password</source>
@@ -2934,11 +2917,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Código de verificação inválido</translation>
     </message>
     <message>
         <source>Please Enter verification code</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Please enter your email</source>
@@ -2950,7 +2933,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification Code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Bind mailbox</source>
@@ -2969,11 +2952,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Código de verificação inválido</translation>
     </message>
     <message>
         <source>Please Enter verification code</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Bind phone number</source>
@@ -2985,38 +2968,38 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Please enter the correct mobile phone number</source>
-        <translation>Invalid phone number</translation>
+        <translation>Número de telefone inválido</translation>
     </message>
     <message>
         <source>Please Enter mobile number</source>
-        <translation>Enter phone number</translation>
+        <translation>Digite seu número de telefone</translation>
     </message>
     <message>
         <source>Get mobile phone verification code</source>
-        <translation>Get code</translation>
+        <translation>Obter código</translation>
     </message>
 </context>
 <context>
     <name>globalUserCenter_shareCodeDisplay</name>
     <message>
         <source>copy</source>
-        <translation>Copy</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Your shared QR code is shown in the figure</source>
-        <translation>Código de compartilhamento exibido</translation>
+        <translation>Seu código QR compartilhado é exibido na imagem</translation>
     </message>
     <message>
         <source>Your sharing code is shown in the figure below. Please keep it properly</source>
-        <translation>O código de compartilhamento gerado abaixo. Por favor, salve para uso futuro.</translation>
+        <translation>Seu código de compartilhamento é exibido abaixo. Por favor, mantenha-o em segurança.</translation>
     </message>
     <message>
         <source>View sharing code</source>
-        <translation>View share code</translation>
+        <translation>Ver código de compartilhamento</translation>
     </message>
     <message>
         <source>Save to album</source>
-        <translation>Save to album</translation>
+        <translation>Salvar no álbum</translation>
     </message>
 </context>
 <context>
@@ -3035,15 +3018,15 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Repair</source>
-        <translation>Repair</translation>
+        <translation>Reparar</translation>
     </message>
     <message>
         <source>expand</source>
-        <translation>Expand</translation>
+        <translation>Expandir</translation>
     </message>
     <message>
         <source>reopen</source>
-        <translation>Multi-instance</translation>
+        <translation>Reabrir</translation>
     </message>
     <message>
         <source>account</source>
@@ -3051,7 +3034,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>volume setting</source>
-        <translation>Volume settings</translation>
+        <translation>Configuração de volume</translation>
     </message>
 </context>
 <context>
@@ -3070,15 +3053,15 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Repair</source>
-        <translation>Repair</translation>
+        <translation>Reparar</translation>
     </message>
     <message>
         <source>expand</source>
-        <translation>Expand</translation>
+        <translation>Expandir</translation>
     </message>
     <message>
         <source>reopen</source>
-        <translation>Multi-instance</translation>
+        <translation>Reabrir</translation>
     </message>
     <message>
         <source>account</source>
@@ -3086,15 +3069,15 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation>Maximize</translation>
+        <translation>Maximizar</translation>
     </message>
     <message>
         <source>Restore Down</source>
-        <translation>Revert</translation>
+        <translation>Restaurar</translation>
     </message>
     <message>
         <source>volume setting</source>
-        <translation>Volume settings</translation>
+        <translation>Configuração de volume</translation>
     </message>
 </context>
 <context>
@@ -3145,15 +3128,15 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>General</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>Choose a language</source>
-        <translation>Language selection</translation>
+        <translation>Selecione um idioma</translation>
     </message>
     <message>
         <source>Launcher Language</source>
-        <translation>Language</translation>
+        <translation>Idioma do launcher</translation>
     </message>
 </context>
 <context>
@@ -3164,27 +3147,27 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Show launcher after game exit</source>
-        <translation>Show launcher when exiting game</translation>
+        <translation>Mostrar launcher ao sair do jogo</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation>Sobre</translation>
     </message>
     <message>
         <source>(Recommended for use when encountering abnormalities during game operation)</source>
-        <translation>(Recomendado se o jogo travar com frequência)</translation>
+        <translation>(Recomendado se ocorrerem anomalias durante a execução do jogo)</translation>
     </message>
     <message>
         <source>Speed limit effect applies to both game download and game pre-download</source>
-        <translation>Speed limit applies to downloads and pre-downloads.</translation>
+        <translation>O limitador de velocidade se aplica a downloads e pré-downloads.</translation>
     </message>
     <message>
         <source>launch settings</source>
-        <translation>Launch settings</translation>
+        <translation>Configurações de inicialização</translation>
     </message>
     <message>
         <source>Recommend using GeForce RTX 40 graphics card when frequent anomalies occur during game execution</source>
-        <translation>(Recommended if RTX 40-series cards experience frequent crashes)</translation>
+        <translation>(Recomendado usar placas GeForce RTX 40 em caso de anomalias frequentes durante o jogo)</translation>
     </message>
     <message>
         <source>Automatic update</source>
@@ -3192,7 +3175,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>unlimited</source>
-        <translation>Unlimited</translation>
+        <translation>Ilimitado</translation>
     </message>
     <message>
         <source>Not automatic update</source>
@@ -3200,31 +3183,31 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Prohibit FSR3 from taking effect</source>
-        <translation>Disable in-client FSR3 (compatibility)</translation>
+        <translation>Desativar FSR3 no cliente (compatibilidade)</translation>
     </message>
     <message>
         <source>User Agreement&amp;Privacy Policy</source>
-        <translation>User Agreement &amp; Privacy Policy</translation>
+        <translation>Termos de Uso e Política de Privacidade</translation>
     </message>
     <message>
         <source>线路%1</source>
-        <translation>Server %1</translation>
+        <translation>Servidor %1</translation>
     </message>
     <message>
         <source>Save login information for next automatic login</source>
-        <translation>Remember me (Auto-login)</translation>
+        <translation>Salvar informações de login para o próximo login automático</translation>
     </message>
     <message>
         <source>Prohibit DLSS frame generation from taking effect</source>
-        <translation>Disable in-client DLSS FrameGen (compatibility)</translation>
+        <translation>Desativar DLSS FrameGen no cliente (compatibilidade)</translation>
     </message>
     <message>
         <source>Please pay attention to account security</source>
-        <translation>Don&apos;t save passwords on public or shared computers.</translation>
+        <translation>Não salve senhas em computadores públicos ou compartilhados.</translation>
     </message>
     <message>
         <source>Game Launch Settings</source>
-        <translation>Game startup settings</translation>
+        <translation>Configurações de inicialização do jogo</translation>
     </message>
     <message>
         <source>DX11 used in the game (recommended if the game starts abnormally)</source>
@@ -3244,11 +3227,11 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation>Minimize to tray</translation>
+        <translation>Minimizar para a bandeja</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Automatic operation after startup</source>
@@ -3260,7 +3243,7 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
     </message>
     <message>
         <source>Play background video</source>
-        <translation>Play background video</translation>
+        <translation>Reproduzir vídeo de fundo</translation>
     </message>
     <message>
         <source>默认</source>
@@ -3302,8 +3285,8 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
         <translation>Lembrete</translation>
     </message>
     <message>
-        <source>Don&apos;t show to me next time</source>
-        <translation>Don&apos;t show again</translation>
+        <source>Don't show to me next time</source>
+        <translation>Don't show again</translation>
     </message>
 </context>
 <context>
@@ -3325,8 +3308,8 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
         <translation>Transfer code</translation>
     </message>
     <message>
-        <source>If you don&apos;t want to bind other third-party accounts, you can choose to set the inheritance code. After setting the inheritance code, you can log in to this account through the inheritance code on other devices. Each inheritance code can only be used once</source>
-        <translation>If you don&apos;t want to link a third-party account, you can set a transfer code to log in on another devices. (One-time use).</translation>
+        <source>If you don't want to bind other third-party accounts, you can choose to set the inheritance code. After setting the inheritance code, you can log in to this account through the inheritance code on other devices. Each inheritance code can only be used once</source>
+        <translation>Se você não quiser vincular outras contas de terceiros, pode definir um código de herança. Depois de defini-lo, você poderá fazer login nesta conta em outros dispositivos com ele. Cada código de herança só pode ser usado uma vez.</translation>
     </message>
 </context>
 <context>
@@ -3355,18 +3338,18 @@ Versão dos recursos: %3 Versão mais recente: %4</translation>
         <translation>Configurações da conta APJ</translation>
     </message>
     <message>
-        <source>Account type：A PLUS Account<byte value="xd"/>
+        <source>Account type：A PLUS Account<byte value="xd" />
 The current account: </source>
-        <translation>Account Type: APJ
-Current email:</translation>
+        <translation>Tipo de conta: A PLUS
+Conta atual:</translation>
     </message>
     <message>
         <source>A PLUS Account Password Reset</source>
-        <translation>Reset APJ account password</translation>
+        <translation>Redefinir senha da conta A PLUS</translation>
     </message>
     <message>
         <source>A PLUS Account Email Reset</source>
-        <translation>Reset APJ account email</translation>
+        <translation>Redefinir e-mail da conta A PLUS</translation>
     </message>
 </context>
 <context>
@@ -3467,38 +3450,38 @@ Current email:</translation>
     <name>QmFileSystemModel</name>
     <message>
         <source> File</source>
-        <translation>File</translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <source>Folder</source>
-        <translation>Folder</translation>
+        <translation>Pasta</translation>
     </message>
 </context>
 <context>
     <name>ResourceRepairContentArea</name>
     <message>
         <source>Start Repair</source>
-        <translation>Start repair</translation>
+        <translation>Iniciar reparo</translation>
     </message>
     <message>
         <source>Reinstall</source>
-        <translation>Reinstall</translation>
+        <translation>Reinstalar</translation>
     </message>
     <message>
         <source>Complete Repair</source>
-        <translation>Full repair</translation>
+        <translation>Reparo completo</translation>
     </message>
     <message>
         <source>The estimated time is only for reference. The specific time depends on your network download speed, resource damage and other factors. You can choose the repair method according to the actual situation. Full Repair is recommended to ensure resource integrity.</source>
-        <translation>Estimated time is for reference only. Actual time depends on network speed and file damage. Full repair is recommended.</translation>
+        <translation>O tempo estimado é apenas de referência. O tempo real depende da sua velocidade de download e dos danos nos recursos. Recomendamos o reparo completo.</translation>
     </message>
     <message>
         <source>Damage repair only</source>
-        <translation>Quick repair</translation>
+        <translation>Reparar apenas danos</translation>
     </message>
     <message>
         <source>Only repair the detected corrupt files, and quickly solve local problems. It takes a short time, but cannot ensure the integrity of all resources. If the game cannot be played after the repair, it is recommended that you choose reinstallation or full repair.</source>
-        <translation>Fix only the detected corrupted files. Faster, but may not resolve all issues. If problems persist, try full repair.</translation>
+        <translation>Corrija apenas os arquivos corrompidos detectados. É mais rápido, mas não garante a integridade completa dos recursos. Se o jogo ainda não funcionar depois, escolha reinstalação ou reparo completo.</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3506,11 +3489,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Redownload and install all game files, which is suitable for repairing seriously damaged resources. The time consumption depends on the download speed.</source>
-        <translation>Redownload and install all game files. Best for fixing major corruption. Time depends on download speed.</translation>
+        <translation>Rebaixe e instale todos os arquivos do jogo. Ideal para corrigir corrupção grave. O tempo depende da velocidade de download.</translation>
     </message>
     <message>
         <source>Scan and verify all game resources, and then repair them to ensure the integrity of resources. Time consumption depends on the degree of damage. It may take too long to play during the repair process.</source>
-        <translation>Scan and verify all game resources before repairing. Ensuring full integrity. This may take some time.</translation>
+        <translation>Verifique e escaneie todos os recursos do jogo antes de reparar. Isso garante integridade, mas pode levar tempo.</translation>
     </message>
 </context>
 <context>
@@ -3533,7 +3516,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Open image file</source>
-        <translation>Open image file</translation>
+        <translation>Abrir arquivo de imagem</translation>
     </message>
     <message>
         <source>Images(*.png *.jpg *.jpeg)</source>
@@ -3561,7 +3544,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Select image file</source>
-        <translation>Select image file</translation>
+        <translation>Selecionar arquivo de imagem</translation>
     </message>
     <message>
         <source>Files(*.png *.jpg *.jpeg *.bmp *.gif *.mp4 *.avi *.mov *.flv *.wmv *mkv)</source>
@@ -3569,7 +3552,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>Select file</translation>
+        <translation>Selecionar arquivo</translation>
     </message>
     <message>
         <source>Network error, please check the network and try again. code=%1</source>
@@ -3612,7 +3595,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Updating</source>
-        <translation>Updating</translation>
+        <translation>Atualizando</translation>
     </message>
     <message>
         <source>Version Verification</source>
@@ -3620,11 +3603,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Playing</source>
-        <translation>In game</translation>
+        <translation>No jogo</translation>
     </message>
     <message>
         <source>Pre download completed</source>
-        <translation>Pre-download completed</translation>
+        <translation>Pré-download concluído</translation>
     </message>
     <message>
         <source>Start Game</source>
@@ -3663,7 +3646,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Agree</source>
-        <translation>Agree</translation>
+        <translation>Concordar</translation>
     </message>
     <message>
         <source>Get verification code</source>
@@ -3699,22 +3682,22 @@ Current email:</translation>
     </message>
     <message>
         <source>Logging in...</source>
-        <translation>Logging in...</translation>
+        <translation>Entrando...</translation>
     </message>
     <message>
         <source>Account logged in.</source>
-        <translation>Logged in</translation>
+        <translation>Conta conectada.</translation>
     </message>
     <message>
         <source>Please use %1 mobile app to scan QR code and login.</source>
-        <translation>Scan QR code with the %1 app</translation>
+        <translation>Use o app móvel %1 para escanear o QR code e fazer login.</translation>
     </message>
 </context>
 <context>
     <name>aboutwindow</name>
     <message>
         <source>About</source>
-        <translation>About</translation>
+        <translation>Sobre</translation>
     </message>
     <message>
         <source>current version:</source>
@@ -3729,7 +3712,7 @@ Current email:</translation>
     <name>UserPrivacypolicy</name>
     <message>
         <source>Agree</source>
-        <translation>Agree</translation>
+        <translation>Concordar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3802,11 +3785,11 @@ Current email:</translation>
     <name>SettingContentArea</name>
     <message>
         <source>Apply</source>
-        <translation>Apply</translation>
+        <translation>Aplicar</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>Redefinir</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3876,11 +3859,11 @@ Current email:</translation>
     <name>globalapjloginframe</name>
     <message>
         <source>Forgot password</source>
-        <translation>Forgot password</translation>
+        <translation>Esqueci a senha</translation>
     </message>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Código de verificação inválido</translation>
     </message>
     <message>
         <source>Please enter your email</source>
@@ -3900,7 +3883,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -3908,7 +3891,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Register</translation>
+        <translation>Registrar</translation>
     </message>
     <message>
         <source>Please input a password</source>
@@ -3916,11 +3899,11 @@ Current email:</translation>
     </message>
     <message>
         <source>go back</source>
-        <translation>Back</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>Signing in to a new device requires verification</source>
-        <translation>Verification is required for new device logins</translation>
+        <translation>É necessária verificação ao entrar em um novo dispositivo</translation>
     </message>
 </context>
 <context>
@@ -4029,7 +4012,7 @@ Current email:</translation>
     </message>
     <message>
         <source>switch account</source>
-        <translation>Switch account</translation>
+        <translation>Trocar conta</translation>
     </message>
     <message>
         <source>Setting</source>
@@ -4060,7 +4043,7 @@ Current email:</translation>
     </message>
     <message>
         <source>switch account</source>
-        <translation>Switch account</translation>
+        <translation>Trocar conta</translation>
     </message>
     <message>
         <source>Setting</source>
@@ -4079,19 +4062,19 @@ Current email:</translation>
     <name>RealNameCertifiedPage</name>
     <message>
         <source>Name:</source>
-        <translation>Name:</translation>
+        <translation>Nome:</translation>
     </message>
     <message>
         <source>ID number:</source>
-        <translation>ID number: </translation>
+        <translation>Número de identificação:</translation>
     </message>
     <message>
         <source>Sorry, the real name information was not passed, the account is currently in a protected state.</source>
-        <translation>ID verification failed. Account is currently restricted.</translation>
+        <translation>Verificação de ID falhou. Conta atualmente restrita.</translation>
     </message>
     <message>
         <source>Please contact perfect customer service if any questions.</source>
-        <translation>For questions, please contact support.</translation>
+        <translation>Para dúvidas, contate o suporte.</translation>
     </message>
     <message>
         <source>click to modify</source>
@@ -4117,11 +4100,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Loading failed</source>
-        <translation>Loading failed</translation>
+        <translation>Falha ao carregar</translation>
     </message>
     <message>
         <source>Load failed</source>
-        <translation>Loading failed</translation>
+        <translation>Falha ao carregar</translation>
     </message>
     <message>
         <source>Close page</source>
@@ -4136,11 +4119,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Loading failed</source>
-        <translation>Loading failed</translation>
+        <translation>Falha ao carregar</translation>
     </message>
     <message>
         <source>Load failed</source>
-        <translation>Loading failed</translation>
+        <translation>Falha ao carregar</translation>
     </message>
     <message>
         <source>Close Page</source>
@@ -4163,7 +4146,7 @@ Current email:</translation>
     </message>
     <message>
         <source>The picture is too large. Currently, only pictures within %1KB are supported</source>
-        <translation>File is too big. Maximun photo size %1KB.</translation>
+        <translation>O arquivo é muito grande. Tamanho máximo de foto %1 KB.</translation>
     </message>
     <message>
         <source>The file is too large. Currently, only 10M file is supported</source>
@@ -4175,7 +4158,7 @@ Current email:</translation>
     </message>
     <message>
         <source>The video is too large. Currently, only %1M video is supported</source>
-        <translation>File is too big. Maximun video size %1MB.</translation>
+        <translation>O arquivo é muito grande. Tamanho máximo de vídeo %1 MB.</translation>
     </message>
 </context>
 <context>
@@ -4213,18 +4196,21 @@ Current email:</translation>
     <name>WindowContainerHelper</name>
     <message>
         <source>To switch to full-screen mode, the change will take effect after the next startup.</source>
-        <translation>Fullscreen mode will take effect on next launch.</translation>
+        <translation>Para mudar para o modo de tela cheia, a alteração entrará em vigor no próximo início.</translation>
     </message>
     <message>
         <source>After hiding the border, you can:Drag the top moving window of the game window;Move the mouse to the upper right corner of the window to display the toolbar;Drag the lower right corner of the window to resize the window</source>
-        <translation>After hiding the border, you can: \n1. Drag the top part of the window to move the window; \n2. Move the mouse to the upper-right corner of the window to display the toolbar; \n3. Drag the lower-right corner of the window to resize the window.</translation>
+        <translation>Após ocultar a borda, você pode:
+1. Arrastar a parte superior da janela para mover a janela;
+2. Mover o mouse para o canto superior direito para exibir a barra de ferramentas;
+3. Arrastar o canto inferior direito para redimensionar a janela.</translation>
     </message>
 </context>
 <context>
     <name>aplusj_account_resetemail</name>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Por favor, digite o código de verificação correto</translation>
     </message>
     <message>
         <source>Please enter the correct email address</source>
@@ -4232,11 +4218,11 @@ Current email:</translation>
     </message>
     <message>
         <source>The current account: </source>
-        <translation>Logged in as: </translation>
+        <translation>Conta atual: </translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification Code</translation>
+        <translation>Digite o código de verificação recebido</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -4244,7 +4230,7 @@ Current email:</translation>
     </message>
     <message>
         <source>A PLUS Account Email Reset</source>
-        <translation>Reset APJ account email</translation>
+        <translation>Redefinir e-mail da conta A PLUS</translation>
     </message>
     <message>
         <source>Please enter new your email address</source>
@@ -4252,14 +4238,14 @@ Current email:</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
 </context>
 <context>
     <name>aplusj_account_resetpswd</name>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Código de verificação inválido</translation>
     </message>
     <message>
         <source>The passwords filled in twice are inconsistent. Please fill in again</source>
@@ -4267,7 +4253,7 @@ Current email:</translation>
     </message>
     <message>
         <source>A PLUS Account Password Reset</source>
-        <translation>Reset APJ account password</translation>
+        <translation>Redefinir senha da conta A PLUS</translation>
     </message>
     <message>
         <source>The current account: </source>
@@ -4279,7 +4265,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Please enter the password again</source>
@@ -4295,14 +4281,14 @@ Current email:</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
 </context>
 <context>
     <name>globalUserCenter_bind_aplusj_reg</name>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Por favor, digite o código de verificação correto</translation>
     </message>
     <message>
         <source>Please enter your email</source>
@@ -4318,7 +4304,7 @@ Current email:</translation>
     </message>
     <message>
         <source>The password is 8-30 characters and must contain at least two kinds of numbers and underscores</source>
-        <translation>A senha deve ter de 8 a 30 caracteres e conter pelo menos dois tipos entre números e sublinhados.</translation>
+        <translation>A senha deve ter de 8 a 30 caracteres e conter pelo menos dois tipos entre números e underlines.</translation>
     </message>
     <message>
         <source>A PLUS Account Register</source>
@@ -4326,7 +4312,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Por favor, insira o código de verificação</translation>
+        <translation>Por favor, insira o código de verificação recebido</translation>
     </message>
     <message>
         <source>Please enter the password again</source>
@@ -4338,14 +4324,14 @@ Current email:</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
 </context>
 <context>
     <name>globalapjregisterframe</name>
     <message>
         <source>Please enter the correct verification code</source>
-        <translation>Invalid verification code</translation>
+        <translation>Código de verificação inválido</translation>
     </message>
     <message>
         <source>Please enter your email</source>
@@ -4365,7 +4351,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Please enter the password again</source>
@@ -4377,11 +4363,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Register</source>
-        <translation>Register</translation>
+        <translation>Registrar</translation>
     </message>
     <message>
         <source>go back</source>
-        <translation>Back</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>Please enter your password</source>
@@ -4389,18 +4375,18 @@ Current email:</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
 </context>
 <context>
     <name>UpdatingPage</name>
     <message>
         <source>Downloading version:</source>
-        <translation>Downloading version: </translation>
+        <translation>Versão de download:</translation>
     </message>
     <message>
         <source>Download speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Remaining time:</source>
@@ -4415,7 +4401,7 @@ Current email:</translation>
     <name>FileManagementPage</name>
     <message>
         <source>Deletion failed!</source>
-        <translation>Delete failed</translation>
+        <translation>Falha ao excluir</translation>
     </message>
     <message>
         <source>Home page</source>
@@ -4431,7 +4417,7 @@ Current email:</translation>
     </message>
     <message>
         <source>The game has not been installed!</source>
-        <translation>Game not installed</translation>
+        <translation>Jogo não instalado</translation>
     </message>
 </context>
 <context>
@@ -4450,7 +4436,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Uploading attachments cannot exceed 200MB</source>
-        <translation>Attachment limit: 200MB</translation>
+        <translation>Os anexos enviados não podem exceder 200 MB.</translation>
     </message>
     <message>
         <source>An error occurred. Please try again later</source>
@@ -4462,19 +4448,19 @@ Current email:</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation>Anexos</translation>
     </message>
     <message>
         <source>Your log upload code is: %id% and has been copied to the clipboard.</source>
-        <translation>Log upload code: %id% (copied to clipboard)</translation>
+        <translation>Seu código de upload de log é: %id% e foi copiado para a área de transferência.</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Feedback</translation>
+        <translation>Comentários</translation>
     </message>
     <message>
         <source>Game logs do not need to be manually added and will be automatically uploaded upon submission</source>
-        <translation>Game logs are uploaded automatically when you submit feedback.</translation>
+        <translation>Os logs do jogo são enviados automaticamente quando você envia feedback.</translation>
     </message>
 </context>
 <context>
@@ -4493,11 +4479,11 @@ Current email:</translation>
     </message>
     <message>
         <source>The description of the problem cannot exceed 300 characters</source>
-        <translation>Issue description cannot exceed 300 characters.</translation>
+        <translation>A descrição do problema não pode exceder 300 caracteres.</translation>
     </message>
     <message>
         <source>Uploading attachments cannot exceed 200MB</source>
-        <translation>Uploaded attachments cannot exceed 200 MB.</translation>
+        <translation>Os anexos enviados não podem exceder 200 MB.</translation>
     </message>
     <message>
         <source>An error occurred. Please try again later</source>
@@ -4509,26 +4495,26 @@ Current email:</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Attachments</translation>
+        <translation>Anexos</translation>
     </message>
     <message>
         <source>Your log upload code is: %id% and has been copied to the clipboard.</source>
-        <translation>Your log upload code is: %id% and it has been copied to the clipboard.</translation>
+        <translation>Seu código de upload de log é: %id% e foi copiado para a área de transferência.</translation>
     </message>
     <message>
         <source>Submit feedback and upload logs</source>
-        <translation>Submit feedback and upload logs</translation>
+        <translation>Enviar feedback e enviar registros</translation>
     </message>
     <message>
         <source>Game logs do not need to be manually added and will be automatically uploaded upon submission</source>
-        <translation>Game logs are uploaded automatically when you submit feedback.</translation>
+        <translation>Os logs do jogo não precisam ser adicionados manualmente e serão enviados automaticamente ao enviar o feedback.</translation>
     </message>
 </context>
 <context>
     <name>globalUserCenter_setPswd</name>
     <message>
         <source>Please fill in the verification code in the correct format</source>
-        <translation>Invalid verification code</translation>
+        <translation>Código de verificação inválido</translation>
     </message>
     <message>
         <source>The passwords filled in twice are inconsistent. Please fill in again</source>
@@ -4548,11 +4534,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Reset password</source>
-        <translation>Reset password</translation>
+        <translation>Redefinir senha</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification Code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>confirm</source>
@@ -4564,11 +4550,11 @@ Current email:</translation>
     </message>
     <message>
         <source>The password format is incorrect. The new password should consists of 6-32 numbers and letters, and can only contain the above two characters types.</source>
-        <translation>Invalid password format. Use 6–32 characters (letters and numbers only).</translation>
+        <translation>Formato de senha inválido. Use 6–32 caracteres (apenas letras e números).</translation>
     </message>
     <message>
         <source>Get mobile phone verification code</source>
-        <translation>Get verification code</translation>
+        <translation>Obter código de verificação</translation>
     </message>
 </context>
 <context>
@@ -4591,11 +4577,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Resend</source>
-        <translation>Resend</translation>
+        <translation>Reenviar</translation>
     </message>
     <message>
         <source>Please enter the email verification code you received</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -4607,15 +4593,15 @@ Current email:</translation>
     </message>
     <message>
         <source>go back</source>
-        <translation>Back</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
     <message>
         <source>Email verification code login</source>
-        <translation>Get One-Time Code</translation>
+        <translation>Login com código de e-mail</translation>
     </message>
 </context>
 <context>
@@ -4650,7 +4636,7 @@ Current email:</translation>
     </message>
     <message>
         <source>删除游戏</source>
-        <translation>Delete game</translation>
+        <translation>Excluir jogo</translation>
     </message>
     <message>
         <source>打开游戏目录</source>
@@ -4658,7 +4644,7 @@ Current email:</translation>
     </message>
     <message>
         <source>切换版本</source>
-        <translation>Switch version</translation>
+        <translation>Trocar versão</translation>
     </message>
     <message>
         <source>Pause download</source>
@@ -4673,15 +4659,15 @@ Current email:</translation>
     </message>
     <message>
         <source>Get email verification code</source>
-        <translation>Send code</translation>
+        <translation>Enviar código</translation>
     </message>
     <message>
         <source>The verification code has been sent</source>
-        <translation>Verification code sent to email</translation>
+        <translation>Código de verificação enviado</translation>
     </message>
     <message>
         <source>Registration successful</source>
-        <translation>Registration successful</translation>
+        <translation>Registro bem-sucedido</translation>
     </message>
     <message>
         <source>Account email reset successful</source>
@@ -4779,25 +4765,25 @@ Current email:</translation>
     <name>LoginFooter</name>
     <message>
         <source>Remember login information</source>
-        <translation>Remember me</translation>
+        <translation>Lembrar informações de login</translation>
     </message>
     <message>
         <source>Save login information for next automatic login</source>
-        <translation>Remember me (Auto-login)</translation>
+        <translation>Salvar informações de login para o próximo login automático</translation>
     </message>
     <message>
         <source>Use carefully in safe environment such as Internet bar and cancel in game</source>
-        <translation>Don&apos;t enable on public or shared computers (disable in game).</translation>
+        <translation>Use com cuidado em ambientes seguros, como lan houses, e desative no jogo.</translation>
     </message>
     <message>
         <source>Use carefully in safe environment such as Internet bar</source>
-        <translation>Don&apos;t enable on public or shared computers (disable in settings).</translation>
+        <translation>Use com cuidado em ambientes seguros, como lan houses.</translation>
     </message>
 </context>
 <context>
     <name>QCoreApplication</name>
     <message>
-        <source>You can&apos;t open more clients. Please continue to play with the current client.</source>
+        <source>You can't open more clients. Please continue to play with the current client.</source>
         <translation>Você não pode abrir mais clientes. Por favor, continue com a instância atual.</translation>
     </message>
     <message>
@@ -4806,7 +4792,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Unfortunately, the game does not support 32-bit system and cannot be started.</source>
-        <translation>Sorry, the game does not support 32-bit systems.</translation>
+        <translation>Infelizmente, o jogo não suporta sistema de 32 bits e não pode ser iniciado.</translation>
     </message>
     <message>
         <source>Please launch the game from the VK platform.</source>
@@ -4817,7 +4803,7 @@ Current email:</translation>
     <name>FeedBackContentArea</name>
     <message>
         <source>Upload log and submit</source>
-        <translation>Upload log and submit</translation>
+        <translation>Enviar log e submeter</translation>
     </message>
     <message>
         <source>· Adding your attachments helps ui handle issue faster</source>
@@ -4839,7 +4825,7 @@ Current email:</translation>
     <name>QHDPayController</name>
     <message>
         <source>Product does not exist.</source>
-        <translation>Item doesn&apos;t exist.</translation>
+        <translation>Item doesn't exist.</translation>
     </message>
     <message>
         <source>Item Already Owned</source>
@@ -4847,43 +4833,43 @@ Current email:</translation>
     </message>
     <message>
         <source>Payment cancelled</source>
-        <translation>Payment canceled</translation>
+        <translation>Pagamento cancelado</translation>
     </message>
     <message>
         <source>payment successful</source>
-        <translation>Payment successful</translation>
+        <translation>Pagamento bem-sucedido</translation>
     </message>
     <message>
         <source>The purchase transaction has been canceled.</source>
-        <translation>Order has been canceled.</translation>
+        <translation>Pedido cancelado.</translation>
     </message>
     <message>
         <source>Your steam account is offline, please log in to the steam client first</source>
         <translation>Sua conta Steam está offline. Faça login no cliente Steam primeiro.</translation>
     </message>
     <message>
-        <source>Purchases require the Steam overlay to be enabled, please follow the steps below to enable it: 1. Exit the game 2. Start the Steam application 3. Go to &quot;Settings&quot; -&gt; &quot;In Game&quot; menu 4. Make sure &quot;Enable the Steam Overlay while in - game&quot; is enabled. 5. Start the game again</source>
+        <source>Purchases require the Steam overlay to be enabled, please follow the steps below to enable it: 1. Exit the game 2. Start the Steam application 3. Go to "Settings" -&gt; "In Game" menu 4. Make sure "Enable the Steam Overlay while in - game" is enabled. 5. Start the game again</source>
         <translation>Compras exigem que o Steam Overlay esteja habilitado. Siga os passos abaixo para ativá-lo:
 1. Saia do jogo.
 2. Abra o aplicativo Steam.
-3. Vá em &quot;Configurações&quot; -&gt; &quot;No jogo".
-4. Certifique-se de que &quot;Habilitar o Steam Overlay durante o jogo&quot; esteja ativado.
+3. Vá em "Configurações" -&gt; "No jogo".
+4. Certifique-se de que "Habilitar o Steam Overlay durante o jogo" esteja ativado.
 5. Reinicie o jogo.</translation>
     </message>
     <message>
         <source>Payment failed</source>
-        <translation>Payment failed</translation>
+        <translation>Pagamento falhou</translation>
     </message>
 </context>
 <context>
     <name>globalqrcodeframe</name>
     <message>
         <source>Click to refresh</source>
-        <translation>Click to refresh</translation>
+        <translation>Clique para atualizar</translation>
     </message>
     <message>
         <source>loading, please wait</source>
-        <translation>Loading, please wait...</translation>
+        <translation>Carregando, por favor aguarde...</translation>
     </message>
     <message>
         <source>login successful</source>
@@ -4935,14 +4921,14 @@ Current email:</translation>
     <name>WebBrowserPage</name>
     <message>
         <source>Page load failed</source>
-        <translation>Page load failed</translation>
+        <translation>Falha ao carregar a página</translation>
     </message>
 </context>
 <context>
     <name>globalcenter_pop_delguest</name>
     <message>
         <source>delete guest</source>
-        <translation>Delete guest account</translation>
+        <translation>Excluir conta de convidado</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4950,42 +4936,42 @@ Current email:</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Data cannot be recovered after deleting a guest. Continue?</source>
-        <translation>Deleting a guest account cannot be undone. All data will be lost. Continue?</translation>
+        <translation>Excluir uma conta de convidado não pode ser desfeito. Todos os dados serão perdidos. Continuar?</translation>
     </message>
 </context>
 <context>
     <name>GameBackman_actionpanel</name>
     <message>
         <source>Downloading:</source>
-        <translation>Downloading: </translation>
+        <translation>Baixando:</translation>
     </message>
     <message>
         <source>Downloaded Size:</source>
-        <translation>Download size: </translation>
+        <translation>Tamanho do download:</translation>
     </message>
     <message>
         <source>Current Version</source>
-        <translation>Current version</translation>
+        <translation>Versão atual</translation>
     </message>
     <message>
         <source>Left Time:</source>
-        <translation>Time remaining: </translation>
+        <translation>Tempo restante: </translation>
     </message>
     <message>
         <source>Extracting:</source>
-        <translation>Extracting: </translation>
+        <translation>Extraindo: </translation>
     </message>
     <message>
         <source>Current Spped:</source>
-        <translation>Current speed: </translation>
+        <translation>Velocidade atual: </translation>
     </message>
     <message>
         <source>Decompression progress:</source>
-        <translation>Progress: </translation>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Checking:</source>
@@ -4993,65 +4979,65 @@ Current email:</translation>
     </message>
     <message>
         <source>Download Speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Processing:</source>
-        <translation>Processing: </translation>
+        <translation>Processando:</translation>
     </message>
 </context>
 <context>
     <name>GameBackman_ht</name>
     <message>
         <source>Downloading:</source>
-        <translation>Downloading: </translation>
+        <translation>Baixando:</translation>
     </message>
     <message>
         <source>Downloaded Size:</source>
-        <translation>Download size: </translation>
+        <translation>Tamanho do download:</translation>
     </message>
     <message>
         <source>Current Version</source>
-        <translation>Current version</translation>
+        <translation>Versão atual</translation>
     </message>
     <message>
         <source>Left Time:</source>
-        <translation>Time remaining: </translation>
+        <translation>Tempo restante: </translation>
     </message>
     <message>
         <source>Extracting:</source>
-        <translation>Extracting: </translation>
+        <translation>Extraindo: </translation>
     </message>
     <message>
         <source>Current Spped:</source>
-        <translation>Current speed: </translation>
+        <translation>Velocidade atual: </translation>
     </message>
     <message>
         <source>Decompression progress:</source>
-        <translation>Progress: </translation>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Download Speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Processing:</source>
-        <translation>Processing: </translation>
+        <translation>Processando:</translation>
     </message>
 </context>
 <context>
     <name>GameBackman_zxsj</name>
     <message>
         <source>Downloading:</source>
-        <translation>Downloading: </translation>
+        <translation>Baixando:</translation>
     </message>
     <message>
         <source>Downloaded Size:</source>
-        <translation>Download size: </translation>
+        <translation>Tamanho do download:</translation>
     </message>
     <message>
         <source>Current Version</source>
-        <translation>Current version</translation>
+        <translation>Versão atual</translation>
     </message>
     <message>
         <source>Left Time:</source>
@@ -5059,58 +5045,58 @@ Current email:</translation>
     </message>
     <message>
         <source>Extracting:</source>
-        <translation>Extracting: </translation>
+        <translation>Extraindo: </translation>
     </message>
     <message>
         <source>Current Spped:</source>
-        <translation>Current speed: </translation>
+        <translation>Velocidade atual: </translation>
     </message>
     <message>
         <source>Decompression progress:</source>
-        <translation>Progress: </translation>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Download Speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Processing:</source>
-        <translation>Processing: </translation>
+        <translation>Processando:</translation>
     </message>
 </context>
 <context>
     <name>GameInstallInformationPanel</name>
     <message>
         <source>Downloading:</source>
-        <translation>Downloading: </translation>
+        <translation>Baixando:</translation>
     </message>
     <message>
         <source>Downloaded Size:</source>
-        <translation>Download size: </translation>
+        <translation>Tamanho do download:</translation>
     </message>
     <message>
         <source>Download Paused:</source>
-        <translation>Download paused: </translation>
+        <translation>Download pausado:</translation>
     </message>
     <message>
         <source>Left Time:</source>
-        <translation>Time remaining: </translation>
+        <translation>Tempo restante: </translation>
     </message>
     <message>
         <source>Current Speed:</source>
-        <translation>Current speed: </translation>
+        <translation>Velocidade atual: </translation>
     </message>
     <message>
         <source>Decompression progress:</source>
-        <translation>Progress: </translation>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Download Speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Processing:</source>
-        <translation>Processing: </translation>
+        <translation>Processando:</translation>
     </message>
 </context>
 <context>
@@ -5125,19 +5111,19 @@ Current email:</translation>
     </message>
     <message>
         <source>Left Time:</source>
-        <translation>Time remaining:</translation>
+        <translation>Tempo restante:</translation>
     </message>
     <message>
         <source>Extracting:</source>
-        <translation>Extracting: </translation>
+        <translation>Extraindo: </translation>
     </message>
     <message>
         <source>Current Speed:</source>
-        <translation>Current speed: </translation>
+        <translation>Velocidade atual: </translation>
     </message>
     <message>
         <source>Decompression progress:</source>
-        <translation>Progress: </translation>
+        <translation>Progresso: </translation>
     </message>
     <message>
         <source>Download Speed:</source>
@@ -5145,7 +5131,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Processing:</source>
-        <translation>Processing:</translation>
+        <translation>Processando:</translation>
     </message>
 </context>
 <context>
@@ -5172,7 +5158,7 @@ Current email:</translation>
     </message>
     <message>
         <source>预估时间仅供参考，具体时间取决于您的网络下载速度、资源损坏程度等因素，您可以根据实际情况选择修复方式。推荐使用“完整修复”以确保资源完整性。</source>
-        <translation>Estimated time is for reference only. Actual time depends on your network and damage level. &quot;Full Repair&quot; is recommended for full integrity.</translation>
+        <translation>Estimated time is for reference only. Actual time depends on your network and damage level. "Full Repair" is recommended for full integrity.</translation>
     </message>
     <message>
         <source>完整修复</source>
@@ -5188,7 +5174,7 @@ Current email:</translation>
     </message>
     <message>
         <source>仅修复已检测到的损坏文件，快速解决局部问题。耗时较短，但无法确保全部资源完整，如修复后仍无法进行游戏，建议您选择重新安装或完整修复。</source>
-        <translation>Fix only the detected corrupted files to quickly resolve specific issues. If issues persist, try full repair.</translation>
+        <translation>Corrija apenas os arquivos corrompidos detectados para resolver rapidamente problemas específicos. Se os problemas persistirem, tente o reparo completo.</translation>
     </message>
 </context>
 <context>
@@ -5199,7 +5185,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Network Error</source>
-        <translation>Network error</translation>
+        <translation>Erro de rede</translation>
     </message>
 </context>
 <context>
@@ -5268,15 +5254,15 @@ Current email:</translation>
     </message>
     <message>
         <source>It is strongly recommended that you update your motherboard BIOS to the latest version. You can click to %1 for more information. If the problem persists, please contact us through the launcher or the [Feedback] section in-game.</source>
-        <translation>We strongly recommend updating your motherboard BIOS to the latest version. Click the %1 button below for detailed instructions. If you&apos;re still encounter issues, please contact us via the [Feedback] button in the Launcher or from the in-game menu.</translation>
+        <translation>Recomendamos fortemente que você atualize o BIOS da placa-mãe para a versão mais recente. Clique em %1 para mais informações. Se o problema persistir, entre em contato pelo launcher ou pela seção [Feedback] no jogo.</translation>
     </message>
     <message>
-        <source>This state can easily cause the game to crash during shader compilation or under high load. It is strongly recommended that you refer to the guide and perform &quot;frequency reduction&quot; to improve stability.</source>
-        <translation>Higher than stock clock speeds can cause the game to crash during shader compilation or high-load scenarios. We strongly recommend &quot;downclocking&quot; your CPU to improve stability:</translation>
+        <source>This state can easily cause the game to crash during shader compilation or under high load. It is strongly recommended that you refer to the guide and perform "frequency reduction" to improve stability.</source>
+        <translation>Higher than stock clock speeds can cause the game to crash during shader compilation or high-load scenarios. We strongly recommend "downclocking" your CPU to improve stability:</translation>
     </message>
     <message>
         <source>view the guide</source>
-        <translation>View Guide</translation>
+        <translation>Ver guia</translation>
     </message>
     <message>
         <source>It is detected that your Intel 13th/14th Gen processor is operating in an overclocked state.</source>
@@ -5327,7 +5313,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Download Speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Pause download</source>
@@ -5350,7 +5336,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Paused</source>
-        <translation>Paused</translation>
+        <translation>Pausado</translation>
     </message>
     <message>
         <source>Verifying game resources</source>
@@ -5358,7 +5344,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Updating...</source>
-        <translation>Updating...</translation>
+        <translation>Atualizando...</translation>
     </message>
     <message>
         <source>Downloading...</source>
@@ -5376,11 +5362,11 @@ Current email:</translation>
     <name>DownloadSpeedLimitSetting</name>
     <message>
         <source>Unlimited</source>
-        <translation>Unlimited</translation>
+        <translation>Ilimitado</translation>
     </message>
     <message>
         <source>The configuration has been modified. Do you want to save it?</source>
-        <translation>Settings changed. Save changes?</translation>
+        <translation>A configuração foi modificada. Deseja salvar?</translation>
     </message>
     <message>
         <source>Download speed limit</source>
@@ -5399,19 +5385,19 @@ Current email:</translation>
     </message>
     <message>
         <source>Network Error</source>
-        <translation>Network error</translation>
+        <translation>Erro de rede</translation>
     </message>
     <message>
         <source>server error please try again later</source>
-        <translation>Server error</translation>
+        <translation>Erro do servidor, tente novamente mais tarde</translation>
     </message>
     <message>
         <source>network error please try again later</source>
-        <translation>Network error</translation>
+        <translation>Erro de rede, tente novamente mais tarde</translation>
     </message>
     <message>
         <source>Unknown Error</source>
-        <translation>Unknown error</translation>
+        <translation>Erro desconhecido</translation>
     </message>
     <message>
         <source>quick response code expired</source>
@@ -5426,7 +5412,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Uploading attachments cannot exceed 200MB</source>
-        <translation>Attachments cannot exceed 200MB.</translation>
+        <translation>Os anexos enviados não podem exceder 200 MB.</translation>
     </message>
     <message>
         <source>An error occurred. Please try again later</source>
@@ -5457,7 +5443,7 @@ Current email:</translation>
     </message>
     <message>
         <source>SMS verification code login</source>
-        <translation>SMS verification code login</translation>
+        <translation>Login com código de verificação por SMS</translation>
     </message>
     <message>
         <source>Please enter the correct mobile phone number</source>
@@ -5469,36 +5455,36 @@ Current email:</translation>
     </message>
     <message>
         <source>go back</source>
-        <translation>Back</translation>
+        <translation>Voltar</translation>
     </message>
     <message>
         <source>Please enter the mobile phone verification code</source>
-        <translation>Enter verification code</translation>
+        <translation>Digite o código de verificação</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
 </context>
 <context>
     <name>globalUserCenterFrame</name>
     <message>
         <source>Loading</source>
-        <translation>Loading...</translation>
+        <translation>Carregando...</translation>
     </message>
 </context>
 <context>
     <name>webpaymainframe</name>
     <message>
         <source>Loading</source>
-        <translation>Loading</translation>
+        <translation>Carregando</translation>
     </message>
 </context>
 <context>
     <name>predownloader</name>
     <message>
         <source>Downloaded Size:</source>
-        <translation>Download size: </translation>
+        <translation>Tamanho do download:</translation>
     </message>
     <message>
         <source>Left Time:</source>
@@ -5506,11 +5492,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Resource size:</source>
-        <translation>Resource size: </translation>
+        <translation>Tamanho do recurso:</translation>
     </message>
     <message>
         <source>Download Speed:</source>
-        <translation>Download speed: </translation>
+        <translation>Velocidade de download:</translation>
     </message>
     <message>
         <source>Version</source>
@@ -5551,7 +5537,7 @@ Current email:</translation>
     </message>
     <message>
         <source>This will not be shown publicly.</source>
-        <translation>This will not be shown publicly.</translation>
+        <translation>Isto não será exibido publicamente.</translation>
     </message>
 </context>
 <context>
@@ -5589,7 +5575,7 @@ Current email:</translation>
     </message>
     <message>
         <source>next step</source>
-        <translation>Next</translation>
+        <translation>Próximo</translation>
     </message>
 </context>
 <context>
@@ -5600,11 +5586,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Game management</source>
-        <translation>Game management</translation>
+        <translation>Gerenciamento do jogo</translation>
     </message>
     <message>
         <source>Intall Plugin</source>
-        <translation>Install components</translation>
+        <translation>Instalar componentes</translation>
     </message>
     <message>
         <source>Game repair</source>
@@ -5645,7 +5631,7 @@ Current email:</translation>
     </message>
     <message>
         <source>崩溃检测进行中,请稍候…</source>
-        <translation>Crash detection running, please wait...</translation>
+        <translation>Detecção de travamento em execução, por favor aguarde...</translation>
     </message>
     <message>
         <source>此操作将尝试检测并记录游戏异常状态(如崩溃或卡顿),以帮助我们改善您的游戏体验。检测过程中可能会出现短暂卡顿,请耐心等待。是否继续？</source>
@@ -5660,7 +5646,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Latest version:</source>
-        <translation>Latest version: </translation>
+        <translation>Última versão:</translation>
     </message>
 </context>
 <context>
@@ -5671,11 +5657,11 @@ Current email:</translation>
     </message>
     <message>
         <source>launcher version</source>
-        <translation>Launcher version</translation>
+        <translation>Versão do launcher</translation>
     </message>
     <message>
         <source>game version</source>
-        <translation>Game version</translation>
+        <translation>Versão do jogo</translation>
     </message>
     <message>
         <source>manufaturer</source>
@@ -5690,11 +5676,11 @@ Current email:</translation>
     </message>
     <message>
         <source>launcher version</source>
-        <translation>Launcher version</translation>
+        <translation>Versão do launcher</translation>
     </message>
     <message>
         <source>game version</source>
-        <translation>Game version</translation>
+        <translation>Versão do jogo</translation>
     </message>
     <message>
         <source>manufaturer</source>
@@ -5713,11 +5699,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation>Upload</translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Change avatar</source>
-        <translation>Change avatar</translation>
+        <translation>Alterar avatar</translation>
     </message>
 </context>
 <context>
@@ -5728,7 +5714,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Are you sure to delete the account record? After deletion, you will not be able to log in quickly, but it will not affect any game data</source>
@@ -5770,11 +5756,11 @@ Current email:</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Delete</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Logging in...</source>
-        <translation>Logging in...</translation>
+        <translation>Entrando...</translation>
     </message>
     <message>
         <source>Are you sure to delete the account record? After deletion, you will not be able to log in quickly, but it will not affect any game data</source>
@@ -5808,7 +5794,7 @@ Current email:</translation>
     </message>
     <message>
         <source>Realname Authentication</source>
-        <translation>ID verification</translation>
+        <translation>Verificação de ID</translation>
     </message>
     <message>
         <source>Legal Provisions</source>
@@ -5823,33 +5809,33 @@ Current email:</translation>
     <name>RealNamePage</name>
     <message>
         <source>Realname certification</source>
-        <translation>ID verification</translation>
+        <translation>Verificação de ID</translation>
     </message>
     <message>
         <source>Real name certification information</source>
-        <translation>ID verification info</translation>
+        <translation>Informações de verificação de ID</translation>
     </message>
 </context>
 <context>
     <name>globalloginframe</name>
     <message>
         <source>Save login information for subsequent automatic login</source>
-        <translation>Remember me (Auto-login)</translation>
+        <translation>Lembrar-me (Login automático)</translation>
     </message>
     <message>
         <source>Please use it with caution in non safe environments such as Internet cafes</source>
-        <translation>Don&apos;t save passwords on public or shared computers.</translation>
+        <translation>Não salve senhas em ambientes inseguros, como lan houses.</translation>
     </message>
 </context>
 <context>
     <name>saveAccountTip</name>
     <message>
         <source>Save login information for subsequent automatic login</source>
-        <translation>Remember me (Auto-login)</translation>
+        <translation>Lembrar-me (Login automático)</translation>
     </message>
     <message>
         <source>Please use it with caution in non safe environments such as Internet cafes</source>
-        <translation>Don&apos;t save passwords on public or shared computers.</translation>
+        <translation>Não salve senhas em ambientes inseguros, como lan houses.</translation>
     </message>
 </context>
 <context>
@@ -5933,7 +5919,7 @@ Current email:</translation>
     <name>webpagenew</name>
     <message>
         <source>Load failed</source>
-        <translation>Loading failed</translation>
+        <translation>Falha ao carregar</translation>
     </message>
     <message>
         <source>Close Page</source>
@@ -5944,7 +5930,7 @@ Current email:</translation>
     <name>ImageView</name>
     <message>
         <source>delete</source>
-        <translation>Delete</translation>
+        <translation>Excluir</translation>
     </message>
 </context>
 <context>
@@ -5955,7 +5941,7 @@ Current email:</translation>
     </message>
     <message>
         <source>switch account</source>
-        <translation>Switch account</translation>
+        <translation>Trocar conta</translation>
     </message>
     <message>
         <source>nickname:</source>
@@ -5963,33 +5949,33 @@ Current email:</translation>
     </message>
     <message>
         <source>Getting...</source>
-        <translation>Loading...</translation>
+        <translation>Carregando...</translation>
     </message>
 </context>
 <context>
     <name>globalUserCenter_createShare</name>
     <message>
         <source>Generate sharing code</source>
-        <translation>Create share code</translation>
+        <translation>Criar código de compartilhamento</translation>
     </message>
     <message>
         <source>Create sharing code</source>
-        <translation>Create share code</translation>
+        <translation>Criar código de compartilhamento</translation>
     </message>
     <message>
         <source>Please select the number of times to use the sharing code</source>
-        <translation>Select usage limit</translation>
+        <translation>Selecione o número de vezes que o código de compartilhamento pode ser usado</translation>
     </message>
     <message>
         <source>Please select the effective date of the sharing code</source>
-        <translation>Select validity period</translation>
+        <translation>Selecione a data de validade do código de compartilhamento</translation>
     </message>
 </context>
 <context>
     <name>VersionGroup</name>
     <message>
         <source>Launcher Version</source>
-        <translation>Launcher version</translation>
+        <translation>Versão do launcher</translation>
     </message>
 </context>
 <context>
@@ -6026,7 +6012,7 @@ switch versions</translation>
     <name>QHDGameLogin</name>
     <message>
         <source>Network Error</source>
-        <translation>Network error</translation>
+        <translation>Erro de rede</translation>
     </message>
     <message>
         <source>Unknown Error</source>
@@ -6041,7 +6027,7 @@ switch versions</translation>
     <name>UserPrivacypolicyWindowController</name>
     <message>
         <source>Network Error</source>
-        <translation>Network error</translation>
+        <translation>Erro de rede</translation>
     </message>
     <message>
         <source>Reminder</source>
@@ -6101,14 +6087,14 @@ switch versions</translation>
     <name>globalnonetelloginframe</name>
     <message>
         <source>Logging in...</source>
-        <translation>Logging in...</translation>
+        <translation>Entrando...</translation>
     </message>
 </context>
 <context>
     <name>globalwebloginframe</name>
     <message>
         <source>Logging in...</source>
-        <translation>Logging in...</translation>
+        <translation>Entrando...</translation>
     </message>
 </context>
 <context>
@@ -6122,7 +6108,7 @@ switch versions</translation>
     <name>PartnerWebPayController</name>
     <message>
         <source>network error please try again later</source>
-        <translation>Network error</translation>
+        <translation>Erro de rede, tente novamente mais tarde</translation>
     </message>
 </context>
 <context>
@@ -6136,7 +6122,7 @@ switch versions</translation>
     <name>globalrecoveruserframe</name>
     <message>
         <source>delete account</source>
-        <translation>Delete account</translation>
+        <translation>Excluir conta</translation>
     </message>
     <message>
         <source>recover now</source>
@@ -6144,7 +6130,7 @@ switch versions</translation>
     </message>
     <message>
         <source>delete completely</source>
-        <translation>Delete permanently</translation>
+        <translation>Excluir permanentemente</translation>
     </message>
 </context>
 <context>
@@ -6190,14 +6176,14 @@ switch versions</translation>
     <name>LanguageGroup</name>
     <message>
         <source>Choose a language</source>
-        <translation>Select language</translation>
+        <translation>Selecione um idioma</translation>
     </message>
 </context>
 <context>
     <name>SettingItemLang</name>
     <message>
         <source>Choose a language</source>
-        <translation>Select language</translation>
+        <translation>Selecione um idioma</translation>
     </message>
 </context>
 <context>
