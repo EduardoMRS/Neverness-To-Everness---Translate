@@ -118,6 +118,7 @@ def extract_locale(pak_name, output_dir=None, force=False):
     combined_out.write_text('\n'.join(combined), encoding='utf-8')
 
     print(f'Wrote {len(utf8_unique)} UTF-8 strings, {len(utf16_unique)} UTF-16LE strings, {len(combined)} total unique strings.')
+    print(f'Next step: edit {combined_out} and then run: python3 unpack_locale_pak.py pack {pak_name}')
     return combined_out
 
 
@@ -154,7 +155,11 @@ def load_text_lines(file_path):
     return [line.rstrip('\r\n') for line in path.read_text(encoding='utf-8').splitlines()]
 
 
-def pack_locale(pak_name, translation_file, output_pak=None, dry_run=False):
+def default_translation_path(pak_name):
+    return OUTPUT_DIR / pak_name.replace('.pak', '') / 'strings_combined.txt'
+
+
+def pack_locale(pak_name, translation_file=None, output_pak=None, dry_run=False):
     pak_path = LOCALE_DIR / pak_name
     if not pak_path.exists():
         raise FileNotFoundError(f'Locale package not found: {pak_path}')
@@ -165,8 +170,9 @@ def pack_locale(pak_name, translation_file, output_pak=None, dry_run=False):
             'Base extracted strings not found. Run the extract command first for the source locale.'
         )
 
+    translation_path = Path(translation_file) if translation_file else default_translation_path(pak_name)
     original_lines = load_text_lines(base_extracted)
-    translated_lines = load_text_lines(translation_file)
+    translated_lines = load_text_lines(translation_path)
     if len(original_lines) != len(translated_lines):
         raise ValueError(
             'Translation file must have the same number of lines as the extracted strings_combined.txt file.'
@@ -250,7 +256,8 @@ if __name__ == '__main__':
 
     parser_pack = sub.add_parser('pack', help='Pack a translated strings file back into a locale pak file.')
     parser_pack.add_argument('locale', help='Source locale pak name or code (e.g. en-US or en-US.pak).')
-    parser_pack.add_argument('translation', help='Translated strings file with the same line order as extracted strings_combined.txt.')
+    parser_pack.add_argument('translation', nargs='?', default=None,
+                             help='Optional translated strings file. Defaults to the extracted strings_combined.txt path.')
     parser_pack.add_argument('--output', help='Output pak path for the packed locale file.')
     parser_pack.add_argument('--dry-run', action='store_true', help='Report replacements without writing the output file.')
 
